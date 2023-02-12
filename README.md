@@ -6,10 +6,10 @@ For each of the articles, given in the input.xlsx file, extract the article text
 While extracting text, please make sure your program extracts only the article title and the article text. It should not extract the website header, footer, or anything other than the article text. 
 NOTE: I HAVE USED BEATUIFULSOUP PYTHON LIBRARIES FOR DATA CRAWLING.
 
-#Data Analysis
+# Data Analysis
 For each of the extracted texts from the article, perform textual analysis and compute variables, given in the output structure excel file. You need to save the output in the exact order as given in the output structure file, “Output Data Structure.xlsx”
 
-#Variables
+# Variables
 Look for these variables in the analysis document (Text Analysis.docx):
 POSITIVE SCORE
 NEGATIVE SCORE
