@@ -10,17 +10,17 @@ NOTE: I HAVE USED BEATUIFULSOUP PYTHON LIBRARIES FOR DATA CRAWLING.
 For each of the extracted texts from the article, perform textual analysis and compute variables, given in the output structure excel file. You need to save the output in the exact order as given in the output structure file, “Output Data Structure.xlsx”
 
 # Variables
-Look for these variables in the analysis document (Text Analysis.docx):
-POSITIVE SCORE
-NEGATIVE SCORE
-POLARITY SCORE
-SUBJECTIVITY SCORE
-AVG SENTENCE LENGTH
-PERCENTAGE OF COMPLEX WORDS
-FOG INDEX
-AVG NUMBER OF WORDS PER SENTENCE
-COMPLEX WORD COUNT
-WORD COUNT
-SYLLABLE PER WORD
-PERSONAL PRONOUNS
-AVG WORD LENGTH
+Look for these variables in the analysis document (Text Analysis.docx):<br>
+POSITIVE SCORE<br>
+NEGATIVE SCORE<br>
+POLARITY SCORE<br>
+SUBJECTIVITY SCORE<br>
+AVG SENTENCE LENGTH<br>
+PERCENTAGE OF COMPLEX WORDS<br>
+FOG INDEX<br>
+AVG NUMBER OF WORDS PER SENTENCE<br>
+COMPLEX WORD COUNT<br>
+WORD COUNT<br>
+SYLLABLE PER WORD<br>
+PERSONAL PRONOUNS<br>
+AVG WORD LENGTH<br>
